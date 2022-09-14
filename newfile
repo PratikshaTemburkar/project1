@@ -1,3 +1,6 @@
 first line
+<<<<<<< HEAD
 second file
 third line 
+=======
+>>>>>>> parent of fbd5265 (second commit)
